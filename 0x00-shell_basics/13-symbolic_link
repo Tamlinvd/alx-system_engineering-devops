@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s named __ls__  /bin/ls
+ln -s /bin/ls named __ls__
