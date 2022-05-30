@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $var | tr -c '[:cntrl:]'
+tr -cd '[alpha]\n'
