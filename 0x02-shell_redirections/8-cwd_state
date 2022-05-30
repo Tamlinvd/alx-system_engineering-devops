@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'this is a line' > ls_cwd_content
