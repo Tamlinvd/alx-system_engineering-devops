@@ -1,2 +1,2 @@
 #!/bin/bash
-void remove_char(char *string, char c)
+tr -d "cC"
